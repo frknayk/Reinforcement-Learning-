@@ -1,4 +1,4 @@
-# Reinforcement-Learning-
+# Reinforcement-Learning
 Reinforcement learning implementations mostly on Open AI's Cart Pole environment
 
 I aimed to stabilize the pendulum on the (x,x',theta,theta') = (0,0,0,0) state. 
